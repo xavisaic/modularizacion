@@ -1,3 +1,3 @@
 import padre
 
-# print(locals())
+print(locals())
